@@ -19,6 +19,7 @@ Made with: CSS, HTML, JavaScript
 - **Xamarin**: A project made for aquaponics, so food production system which combines a traditional aquaculture with hydroculture in a symbiotic environment.
 Made with: LLVM, Java and
 Embedded components:
+PH Sensor, Temperature Sensor, Humidity Sensor and a lot more
 
 
 ## 🌱 What I'm Learning
