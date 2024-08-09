@@ -29,5 +29,5 @@ PH Sensor, Temperature Sensor, Humidity Sensor and a lot more
 - **Backend**: RESTful APIs, Microservices, Cloud Services, Azure
 - **Frontend**: Responsive Design, UX/UI, JavaScript Frameworks
 
-## 🔍 stats 
+## 🔍 Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Andersen)](https://github.com/anuraghazra/github-readme-stats)
