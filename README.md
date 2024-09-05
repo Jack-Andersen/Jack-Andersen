@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 **About me**:
-My name is Jack. I am a healthy young man of 24 years. I have previously worked as a cook, but have found that data and communication/Programmer is more what I want to work with in the future, as it is a great interest of mine.
+My name is Jack. I am a healthy young man of 25 years. I have previously worked as a cook, but have found that data and communication/Programmer is more what I want to work with in the future, as it is a great interest of mine.
 In my spare time, I exercise a lot, as I want to be healthy and do my best.
 I am not afraid to try new things, and am also very approachable and positive.
 
